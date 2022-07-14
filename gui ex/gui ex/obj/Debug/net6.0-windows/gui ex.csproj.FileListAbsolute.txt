@@ -16,3 +16,21 @@ C:\Users\hp\Desktop\folders\c# excercise\gui ex\gui ex\obj\Debug\net6.0-windows\
 C:\Users\hp\Desktop\folders\c# excercise\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.pdb
 C:\Users\hp\Desktop\folders\c# excercise\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.genruntimeconfig.cache
 C:\Users\hp\Desktop\folders\c# excercise\gui ex\gui ex\obj\Debug\net6.0-windows\ref\gui ex.dll
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\bin\Debug\net6.0-windows\gui ex.exe
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\bin\Debug\net6.0-windows\gui ex.deps.json
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\bin\Debug\net6.0-windows\gui ex.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\bin\Debug\net6.0-windows\gui ex.dll
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\bin\Debug\net6.0-windows\gui ex.pdb
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui_ex.Form2.resources
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.dll
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\refint\gui ex.dll
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.pdb
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui ex.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\ref\gui ex.dll
+C:\Users\hp\Documents\GitHub\cs223\gui ex\gui ex\obj\Debug\net6.0-windows\gui_ex.Properties.Resources.resources

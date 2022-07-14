@@ -8,6 +8,7 @@ namespace gui_ex
 {
     internal class propertis
     {
+            static List<propertis> prop = new List<propertis>();
         
             public int number { get; set; }
             public string? date { get; set; }
@@ -16,11 +17,17 @@ namespace gui_ex
             public int quantity { get; set; }
             public double price { get; set; }
             
-                public void save()
+            public void save()
+                {
+                    Console.WriteLine ("db saved");
+                    prop.Add(this);
+                   
+                }
+            public  static List<propertis> GetAllProp()
             {
-            Console.WriteLine ("db saved");
+                return prop;
             }
 
-        }
+    }
     }
 
